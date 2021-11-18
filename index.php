@@ -10,7 +10,7 @@
       @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Indie+Flower&family=Rubik:ital,wght@1,500&display=swap');
       </style>
     <style>
-        *{background-color: pink;
+        *{background-color: black;
         }
         .Services {
         margin-top: 90px;
@@ -47,7 +47,7 @@
 }
 
 .Services .Services-box:hover {
-     background:black;
+     background:blue;
      transition: ease-in all 0.5s;
      cursor: pointer;
 }
